@@ -1,11 +1,10 @@
-
 body {
   font-family: 'Montserrat', sans-serif;
   background-color: #f0f2f5;
   color: #333;
 }
 header {
-  background: linear-gradient(to right, #0056b3, #007bff);
+  background: linear-gradient(to right, #8b0000, #d32f2f);
   color: white;
   padding: 40px 20px;
   text-align: center;
@@ -49,7 +48,7 @@ main {
 .bar-fill {
   height: 100%;
   border-radius: 20px;
-  background-color: #007bff;
+  background-color: #d32f2f;
 }
 .bar-fill[data-percent="94"] { width: 94%; }
 .bar-fill[data-percent="92"] { width: 92%; }
